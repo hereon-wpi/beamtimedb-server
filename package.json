@@ -1,0 +1,25 @@
+{
+  "name": "beamtimedb-server",
+  "version": "1.0.0",
+  "description": "Back-end for BeamtimeDB Widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hzg-wpi/beamtimedb-server.git"
+  },
+  "keywords": [
+    "beamtimedb"
+  ],
+  "author": "Ingvord",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hzg-wpi/beamtimedb-server/issues"
+  },
+  "homepage": "https://github.com/hzg-wpi/beamtimedb-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
